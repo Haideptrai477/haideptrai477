@@ -1,2 +1,1 @@
-Test
-Test2
+this is my first Git exercise
